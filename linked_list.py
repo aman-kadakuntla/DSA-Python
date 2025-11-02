@@ -1,3 +1,6 @@
+'''
+Implementation of single linked list
+'''
 
 class Node:
     def __init__(self):
